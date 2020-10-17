@@ -1,0 +1,12 @@
+phases:
+  build:
+    commands:
+      - echo Entered the build phase...
+      - mvn clean package
+  post_build:
+    command:
+      - echo Build completed success fully..
+artifacts:
+  files:
+    - target/SSO-Auth-login.jar
+  discard-paths: yes
