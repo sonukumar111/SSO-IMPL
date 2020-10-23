@@ -1,0 +1,25 @@
+2020-10-23_03:59:11.812 - GETTING ADMING PAGE
+2020-10-23_03:59:14.161 - GETTING HOME PAGE..
+2020-10-23_03:59:19.516 - GETTING HOME PAGE..
+2020-10-23_03:59:20.917 - GETTING USER PAGE..
+2020-10-23_03:59:24.610 - GETTING USER PAGE..
+2020-10-23_03:59:32.772 - GETTING LOGIN PAGE
+2020-10-23_03:59:48.857 - GETTING LOGIN PAGE
+2020-10-23_04:00:05.800 - Loading user details by mail id 
+2020-10-23_04:00:05.804 - User Found : 
+2020-10-23_04:00:05.804 - USER ROLE IS : USER
+2020-10-23_04:00:05.896 - GETTING HOME PAGE..
+2020-10-23_04:00:07.333 - User: rajesh@gmail.com attempted to access the protected URL: /admin
+2020-10-23_04:00:07.338 - GETTING Access Denied..
+2020-10-23_04:00:15.930 - GETTING HOME PAGE..
+2020-10-23_04:00:16.806 - GETTING USER PAGE..
+2020-10-23_04:00:18.993 - GETTING HOME PAGE..
+2020-10-23_04:00:23.843 - User: rajesh@gmail.com attempted to access the protected URL: /admin
+2020-10-23_04:00:23.850 - GETTING Access Denied..
+2020-10-23_04:03:05.415 - GETTING Access Denied..
+2020-10-23_04:03:16.704 - GETTING HOME PAGE..
+2020-10-23_04:05:23.097 - Starting SSOApplication on DESKTOP-LQ1QBB8 with PID 4224 (C:\Users\yacca\Desktop\New folder\Backup sso\SSOApplication\target\classes started by yacca in C:\Users\yacca\Desktop\New folder\Backup sso\SSOApplication)
+2020-10-23_04:05:23.098 - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-10-23_04:05:23.098 - No active profile set, falling back to default profiles: default
+2020-10-23_04:05:23.821 - Authenticating roles :: 
+2020-10-23_04:05:23.824 - Role Authentication Successfull :: 

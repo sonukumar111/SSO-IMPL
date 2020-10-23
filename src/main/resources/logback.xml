@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+    <appender name="FILE-ROLLING" class="ch.qos.logback.core.rolling.RollingFileAppender">
+       	    <encoder>
+		        <Pattern>%d{yyyy-MM-dd_HH:mm:ss.SSS} - %msg%n</Pattern>
+		    </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>logs/sso-auth.%d{yyyy-MM-dd}.%i.log</fileNamePattern>        
+            <maxFileSize>1KB</maxFileSize>       
+            <totalSizeCap>40GB</totalSizeCap>     
+            <maxHistory>60</maxHistory>
+        </rollingPolicy>
+    </appender>
+    <logger name="com.onpassive.sso" level="debug">
+        <appender-ref ref="FILE-ROLLING"/>
+    </logger>
+</configuration>

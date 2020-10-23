@@ -1,0 +1,16 @@
+2020-10-23_03:56:50.423 - Authenticating roles :: 
+2020-10-23_03:56:50.479 - Role Authentication Successfull :: 
+2020-10-23_03:56:58.223 - Started SSOApplication in 10.608 seconds (JVM running for 11.374)
+2020-10-23_03:57:01.600 - GETTING LOGIN PAGE
+2020-10-23_03:57:16.297 - Loading user details by mail id 
+2020-10-23_03:57:16.501 - User not found with the given id : pawan@gmail.com
+2020-10-23_03:57:16.625 - GETTING LOGIN PAGE
+2020-10-23_03:57:40.838 - UserRegistrationDto [firstName=Sonu, lastName=kumar, email=sonukumarth10@gmail.com, password=Sonu@1234, role=ADMIN]
+2020-10-23_03:58:30.821 - UserRegistrationDto [firstName=rajesh, lastName=sharma, email=rajesh@gmail.com, password=Rajesh@123, role=USER]
+2020-10-23_03:58:43.848 - GETTING LOGIN PAGE
+2020-10-23_03:59:06.209 - Loading user details by mail id 
+2020-10-23_03:59:06.312 - User Found : 
+2020-10-23_03:59:06.313 - USER ROLE IS : ADMIN
+2020-10-23_03:59:06.423 - GETTING HOME PAGE..
+2020-10-23_03:59:07.814 - GETTING USER PAGE..
+2020-10-23_03:59:10.947 - GETTING HOME PAGE..

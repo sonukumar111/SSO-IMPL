@@ -10,18 +10,15 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>net.javaguides</groupId>
-	<artifactId>registration-login-spring-boot-security-thymeleaf</artifactId>
+	<artifactId>SSOApplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>Onpassive-SSO</name>
-	<description>Demo project for Spring Boot Thymeleaf and Hibernate </description>
-
+	<description>SSO Application</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
-
 	<dependencies>
-
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
@@ -33,22 +30,15 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-thymeleaf</artifactId>
-		</dependency>
-		<!-- <dependency>
-		    <groupId>org.springframework.cloud</groupId>
-		    <artifactId>spring-cloud-starter-oauth2</artifactId>
-		    <version>2.0.0.RELEASE</version>
-		</dependency> -->
+		</dependency>		
 		<dependency>
 			<groupId>org.thymeleaf.extras</groupId>
 			<artifactId>thymeleaf-extras-springsecurity5</artifactId>
 		</dependency>
-
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
-		
+		</dependency>		
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
@@ -59,8 +49,7 @@
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<scope>runtime</scope>
-		</dependency>
-		
+		</dependency>		
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
@@ -78,7 +67,6 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
 	<build>
 		<plugins>
 			<plugin>
@@ -88,5 +76,4 @@
 		</plugins>
 		<finalName>SSO-Auth-login</finalName>
 	</build>
-
 </project>

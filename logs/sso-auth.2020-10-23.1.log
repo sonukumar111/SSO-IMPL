@@ -1,0 +1,25 @@
+2020-10-23_03:17:31.430 - GETTING HOME PAGE..
+2020-10-23_03:17:32.745 - GETTING USER PAGE..
+2020-10-23_03:17:34.007 - GETTING HOME PAGE..
+2020-10-23_03:17:35.262 - GETTING LOGIN PAGE
+2020-10-23_03:17:52.619 - Loading user details by mail id 
+2020-10-23_03:17:52.660 - User Found : 
+2020-10-23_03:17:52.661 - USER ROLE IS : ADMIN
+2020-10-23_03:17:52.801 - GETTING HOME PAGE..
+2020-10-23_03:17:53.785 - GETTING ADMING PAGE
+2020-10-23_03:17:54.646 - GETTING HOME PAGE..
+2020-10-23_03:17:55.592 - GETTING USER PAGE..
+2020-10-23_03:17:56.589 - GETTING HOME PAGE..
+2020-10-23_03:45:30.826 - Starting SSOApplication on DESKTOP-LQ1QBB8 with PID 10484 (C:\Users\yacca\Desktop\New folder\Backup sso\SSOApplication\target\classes started by yacca in C:\Users\yacca\Desktop\New folder\Backup sso\SSOApplication)
+2020-10-23_03:45:30.826 - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-10-23_03:45:30.827 - No active profile set, falling back to default profiles: default
+2020-10-23_03:45:31.451 - Authenticating roles :: 
+2020-10-23_03:45:31.454 - Role Authentication Successfull :: 
+2020-10-23_03:52:01.972 - Starting SSOApplication on DESKTOP-LQ1QBB8 with PID 10484 (C:\Users\yacca\Desktop\New folder\Backup sso\SSOApplication\target\classes started by yacca in C:\Users\yacca\Desktop\New folder\Backup sso\SSOApplication)
+2020-10-23_03:52:01.972 - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-10-23_03:52:01.973 - No active profile set, falling back to default profiles: default
+2020-10-23_03:52:02.613 - Authenticating roles :: 
+2020-10-23_03:52:02.616 - Role Authentication Successfull :: 
+2020-10-23_03:52:26.243 - Starting SSOApplication on DESKTOP-LQ1QBB8 with PID 15240 (C:\Users\yacca\Desktop\New folder\Backup sso\SSOApplication\target\classes started by yacca in C:\Users\yacca\Desktop\New folder\Backup sso\SSOApplication)
+2020-10-23_03:52:26.245 - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-10-23_03:52:26.245 - No active profile set, falling back to default profiles: default

@@ -1,0 +1,10 @@
+2020-10-23_03:52:28.724 - Authenticating roles :: 
+2020-10-23_03:52:28.779 - Role Authentication Successfull :: 
+2020-10-23_03:55:57.093 - Starting SSOApplication on DESKTOP-LQ1QBB8 with PID 13616 (C:\Users\yacca\Desktop\New folder\Backup sso\SSOApplication\target\classes started by yacca in C:\Users\yacca\Desktop\New folder\Backup sso\SSOApplication)
+2020-10-23_03:55:57.095 - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-10-23_03:55:57.095 - No active profile set, falling back to default profiles: default
+2020-10-23_03:55:59.941 - Authenticating roles :: 
+2020-10-23_03:55:59.955 - Role Authentication Successfull :: 
+2020-10-23_03:56:47.992 - Starting SSOApplication on DESKTOP-LQ1QBB8 with PID 4224 (C:\Users\yacca\Desktop\New folder\Backup sso\SSOApplication\target\classes started by yacca in C:\Users\yacca\Desktop\New folder\Backup sso\SSOApplication)
+2020-10-23_03:56:47.994 - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-10-23_03:56:47.995 - No active profile set, falling back to default profiles: default

@@ -243,13 +243,11 @@ span.input-group-addon i {
 					</div>
 					<div> <span id="error_email" class="text-danger"></span></div>
 					<div>
-						<input type="checkbox" id="admin" name="admin">
-						<label for="admin">ADMIN</label></div>
-					<div>	<input type="checkbox" id="user" name="user" >
-						<label for="user">USER</label></div>
-					
-
-
+						<input type="radio" id="role" name="role" value="ADMIN">
+						<label for="role">ADMIN</label>
+						<input type="radio" id="role" name="role" value="USER">
+						<label for="role">USER</label>
+					</div>
 					<div class="form-group">
 						<label class="control-label" for="password"> Password </label> <input
 							id="password" class="form-control validate[required,minSize[8]]" type="password" name="pass"
@@ -295,7 +293,6 @@ $(document).ready(function () {
             $(this).css("border-color", "#2eb82e");
             $('#submit').attr('disabled', false);
             $("#error_firstName").text("");
-
         }
     });
     $("#lastName").focusout(function () {
